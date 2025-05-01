@@ -33,7 +33,7 @@ sudo apt install ffmpeg
 ```
 
 #### No Windows:
-## Obs: caso não queira baixar, tem no proprio repositorio um zip, basta descompaquitar e utilizar ele mesmo, lembre de colocar nas bariaveis de ambiente bin
+## Obs: caso não queira baixar, tem no proprio repositorio um zip, basta descompactar e utilizar ele mesmo, lembre de colocar nas bariaveis de ambiente bin
 1. Baixe o ffmpeg em: [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
 2. Extraia o conteúdo.
 3. Adicione o caminho da pasta `bin` à variável de ambiente `PATH`.
